@@ -8,7 +8,7 @@
 <h3 align="center">Programming & Web Technologies</h3>
 
 ###
-<!-- lagi -->
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
