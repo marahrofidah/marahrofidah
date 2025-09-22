@@ -1,7 +1,7 @@
 
 ![marahrofidah](img/bg.png)
 
-<p align="center">🖥️ I'm an Informatics Engineering student at University of Darussalam Gontor.<br>📔 I'm currently learning Kotlin in Android Studio</p>
+<p align="center">🖥️ I'm an Informatics Engineering student at University of Darussalam Gontor.<br>📔 I'm currently learning Flutter</p>
 
 ###
 
