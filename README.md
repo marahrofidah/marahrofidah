@@ -99,7 +99,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marahrofidah&radius=16&theme=tokyo-night&area=true&order=5" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marahrofidah&radius=16&theme=tokyo-night&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
