@@ -1,5 +1,5 @@
 
-![marahrofidah](img/bg.png)
+![marahrofidah](img/updte.png)
 
 <p align="center">🖥️ I'm an Informatics Engineering student at University of Darussalam Gontor.<br>📔 I'm currently learning Flutter</p>
 
